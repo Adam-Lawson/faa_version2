@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Feline Adoption Agency</string>
+    <string name="hello_world">Hello world!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_tab">Home</string>
+    <string name="kitten_tab">Kittens</string>
+    <string name="cat_tab">Cats</string>
+    <string name="fosterer_tab">Fosterers</string>
+    <string name="faa_user_tab">FAA Users</string>
+    <string name="nav_header_image_description">Picture of kitten</string>
+    <string name="nav_login">Login</string>
+    <string name="nav_support">Support</string>
+    <string name="nav_help">Help</string>
+    <string name="nav_feedback">Feedback</string>
+    <string name="nav_open_drawer">Open navigation drawer</string>
+    <string name="nav_close_drawer">Close navigation drawer</string>
+</resources>
