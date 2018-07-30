@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".ui.cats.CatsFragment">
+    tools:context="uk.ac.aber.dcs.cs31620.faaversion2.ui.cats.CatsFragment">
 
     <!-- TODO: Update blank fragment layout -->
     <TextView

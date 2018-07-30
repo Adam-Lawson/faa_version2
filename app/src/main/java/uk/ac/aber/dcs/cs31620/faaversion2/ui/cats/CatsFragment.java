@@ -1,4 +1,4 @@
-package uk.ac.aber.dcs.cs31620.faaversion1.ui.cats;
+package uk.ac.aber.dcs.cs31620.faaversion2.ui.cats;
 
 
 import android.os.Bundle;
@@ -14,7 +14,6 @@ import uk.ac.aber.dcs.cs31620.faaversion1.R;
  */
 public class CatsFragment extends Fragment {
 
-
     public CatsFragment() {
         // Required empty public constructor
     }
@@ -24,7 +23,9 @@ public class CatsFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_cats, container, false);
+        return inflater.inflate(R.layout.fragment_home, container, false);
     }
+
+
 
 }

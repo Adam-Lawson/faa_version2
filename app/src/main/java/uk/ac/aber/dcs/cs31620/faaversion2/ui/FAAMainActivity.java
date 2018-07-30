@@ -1,4 +1,4 @@
-package uk.ac.aber.dcs.cs31620.faaversion1.ui;
+package uk.ac.aber.dcs.cs31620.faaversion2.ui;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
@@ -16,11 +16,11 @@ import android.view.MenuItem;
 import android.widget.Toast;
 
 import uk.ac.aber.dcs.cs31620.faaversion1.R;
-import uk.ac.aber.dcs.cs31620.faaversion1.ui.cats.CatsFragment;
-import uk.ac.aber.dcs.cs31620.faaversion1.ui.faa_users.FAAUsersFragment;
-import uk.ac.aber.dcs.cs31620.faaversion1.ui.fosterers.FosterersFragment;
-import uk.ac.aber.dcs.cs31620.faaversion1.ui.home.HomeFragment;
-import uk.ac.aber.dcs.cs31620.faaversion1.ui.kittens.KittensFragment;
+import uk.ac.aber.dcs.cs31620.faaversion2.ui.cats.CatsFragment;
+import uk.ac.aber.dcs.cs31620.faaversion2.ui.faa_users.FAAUsersFragment;
+import uk.ac.aber.dcs.cs31620.faaversion2.ui.fosterers.FosterersFragment;
+import uk.ac.aber.dcs.cs31620.faaversion2.ui.home.HomeFragment;
+import uk.ac.aber.dcs.cs31620.faaversion2.ui.kittens.KittensFragment;
 
 public class FAAMainActivity extends AppCompatActivity implements NavigationView.OnNavigationItemSelectedListener{
 
