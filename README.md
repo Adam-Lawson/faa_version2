@@ -1,6 +1,6 @@
 # README
 
-Code for the CS31620 FAA (Feline Adoption Agency) app, version 3.
+Code for the CS31620 FAA (Feline Adoption Agency) app, version 2.
 
 This is version 2 developed by students in workshop 5, workbook 5.
 
